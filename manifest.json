@@ -1,0 +1,45 @@
+{
+  "name": "Computer Support Sahibganj",
+  "short_name": "CS Sahibganj",
+  "description": "Computer Support Sahibganj - Laptop, Desktop, CCTV, Data Recovery Services. Call 7004788958",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d47a1",
+  "theme_color": "#0d47a1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3067/3067260.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3067/3067260.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Call Now",
+      "url": "tel:7004788958",
+      "icons": [
+        {
+          "src": "https://cdn-icons-png.flaticon.com/512/126/126341.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Book Service",
+      "url": "/#booking",
+      "icons": [
+        {
+          "src": "https://cdn-icons-png.flaticon.com/512/2693/2693507.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
